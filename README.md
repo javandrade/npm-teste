@@ -1,8 +1,3 @@
 # Jenkins CI Test
 
-[![Build Status](https://travis-ci.org/ganny26/substack.svg?branch=master)](https://travis-ci.org/ganny26/substack)
-
-Travis CI automatically detects when a commit has been made and pushed to a GitHub repository that is using Travis CI, and each time this happens, it will try to build the project and run tests
-
- This project is build on Mocha and Chai JS 
-
+O Jenkins CI Teste detecta automaticamente quando um commit foi feito e enviado para um repositório GitHub que está usando o Travis CI, e cada vez que isso acontece, ele tenta criar o projeto e executar testes.
